@@ -1,0 +1,287 @@
+{
+  "project_info": {
+    "project_number": "736800217047",
+    "firebase_url": "https://janmashtami-2ad08.firebaseio.com",
+    "project_id": "janmashtami-2ad08",
+    "storage_bucket": "janmashtami-2ad08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736800217047:android:40001d6f444c14e8",
+        "android_client_info": {
+          "package_name": "com.example.androidbtcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736800217047-qd3iqbtdjanj9vkmpdpu76ommsi2akik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidbtcontrol",
+            "certificate_hash": "1d177a5b51e8ae8bc798a40e61efc09b502243e1"
+          }
+        },
+        {
+          "client_id": "736800217047-9re3tadjaa2jfjqr1ig8qvd609851hqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidbtcontrol",
+            "certificate_hash": "33012361fc720876d2328ce08242a45d8fc3124e"
+          }
+        },
+        {
+          "client_id": "736800217047-ajrun26b5je9bktt1d2pu72qdnh2hk3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgY-y9xs6h5araeKLd5OQTT6YKwhJ6SrA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736800217047-ajrun26b5je9bktt1d2pu72qdnh2hk3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736800217047:android:31f34d77889719c9",
+        "android_client_info": {
+          "package_name": "com.example.ron.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736800217047-gu2ffqak6m8bj164td1c0e0j62qoj222.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ron.helloworld",
+            "certificate_hash": "33012361fc720876d2328ce08242a45d8fc3124e"
+          }
+        },
+        {
+          "client_id": "736800217047-ajrun26b5je9bktt1d2pu72qdnh2hk3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgY-y9xs6h5araeKLd5OQTT6YKwhJ6SrA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736800217047-ajrun26b5je9bktt1d2pu72qdnh2hk3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736800217047:android:2a3a29a25306f2f9",
+        "android_client_info": {
+          "package_name": "com.abhi.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736800217047-ibfdim6uvqikjn3l7v3tt3g3r4sm0n6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhi.googlelogin",
+            "certificate_hash": "b4225986b41ab0ad09bef52b43baa8a99cef619d"
+          }
+        },
+        {
+          "client_id": "736800217047-ificc69mdhkjin02rkn2gecihsse5u3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhi.googlelogin",
+            "certificate_hash": "0f16728a6276ebaa3bf44360e9ab289f9204f0b0"
+          }
+        },
+        {
+          "client_id": "736800217047-2g878g18gttattrukjk0a3l9r26ug4q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhi.googlelogin",
+            "certificate_hash": "1d177a5b51e8ae8bc798a40e61efc09b502243e1"
+          }
+        },
+        {
+          "client_id": "736800217047-p5k6nl28qeal0v0j47hucq7hh76fuk33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhi.googlelogin",
+            "certificate_hash": "33012361fc720876d2328ce08242a45d8fc3124e"
+          }
+        },
+        {
+          "client_id": "736800217047-ajrun26b5je9bktt1d2pu72qdnh2hk3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgY-y9xs6h5araeKLd5OQTT6YKwhJ6SrA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736800217047-ajrun26b5je9bktt1d2pu72qdnh2hk3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736800217047:android:f4e1a099faf78234",
+        "android_client_info": {
+          "package_name": "org.iskconbangalore.hkmsadana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736800217047-un468qmpvd2ecci32r1uovvds1r77o7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.iskconbangalore.hkmsadana",
+            "certificate_hash": "33012361fc720876d2328ce08242a45d8fc3124e"
+          }
+        },
+        {
+          "client_id": "736800217047-vvlfajgtt9k2etj0gp0uli0lk449cml7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.iskconbangalore.hkmsadana",
+            "certificate_hash": "0f16728a6276ebaa3bf44360e9ab289f9204f0b0"
+          }
+        },
+        {
+          "client_id": "736800217047-3qq8s7un9o5t1pf9e7jjs20etv7e4e15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.iskconbangalore.hkmsadana",
+            "certificate_hash": "1d177a5b51e8ae8bc798a40e61efc09b502243e1"
+          }
+        },
+        {
+          "client_id": "736800217047-34bveel9p699cc1kdohaq6oo82sdv9ro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.iskconbangalore.hkmsadana",
+            "certificate_hash": "b4225986b41ab0ad09bef52b43baa8a99cef619d"
+          }
+        },
+        {
+          "client_id": "736800217047-ajrun26b5je9bktt1d2pu72qdnh2hk3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgY-y9xs6h5araeKLd5OQTT6YKwhJ6SrA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736800217047-ajrun26b5je9bktt1d2pu72qdnh2hk3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736800217047:android:6675d3f9169683fb",
+        "android_client_info": {
+          "package_name": "org.iskconbangalore.hkmsadana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736800217047-9jusirsmgnfl9gdvcejtr124knblrfa2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.iskconbangalore.hkmsadana",
+            "certificate_hash": "b4225986b41ab0ad09bef52b43baa8a99cef619d"
+          }
+        },
+        {
+          "client_id": "736800217047-ajrun26b5je9bktt1d2pu72qdnh2hk3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgY-y9xs6h5araeKLd5OQTT6YKwhJ6SrA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736800217047-ajrun26b5je9bktt1d2pu72qdnh2hk3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
